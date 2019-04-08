@@ -1,3 +1,13 @@
+---
+topic: Custom fonts sample for App Service using Windows containers
+languages:
+  - aspx-csharp
+  - powershell
+products:
+  - Azure App Service
+  - Azure Web Apps
+---
+
 # Custom fonts sample for App Service using Windows containers
 
 This is a minimal sample app that demonstrates how to migrate an ASP.NET application from an on-premises Windows machine to Azure App Service. 
